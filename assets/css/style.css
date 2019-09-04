@@ -18,6 +18,7 @@ body {
 }
 
 nav {
+    padding: 0%;
     background: #ffffff;
     border-bottom-style: solid;
     border-bottom-width: 2px;   
@@ -33,11 +34,12 @@ nav {
 
 #name{
     position: relative;
-    float: left;
+    /* float: left; */
     margin: 0%;
     padding: 10px;
     background-color: #4aaaa5;
     color: #ffffff;
+    font-size: xx-large;
 }
 
 .link {
@@ -77,19 +79,17 @@ section {
 #picture{
     float: left;
     width: 25%;
-    height: 25%;
-    padding: 2%;
+    margin: 2%;
 }
 
-.clearfix::after {
+/* .clearfix::after {
     content: " ";
     display: block;
     clear: both;
-  }
+  } */
 
 footer {
-    position: fixed
-    ;
+    position: relative;
     bottom: 0%;
     left: 0%;
     right: 0%;
@@ -98,6 +98,7 @@ footer {
     border-top-style: solid;
     border-top-width: 4px;
     border-top-color: #4aaaa5;
+    margin-top: 10%;
 }
 
 
