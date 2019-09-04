@@ -18,7 +18,6 @@ body {
 }
 
 nav {
-    padding: 0%;
     background: #ffffff;
     border-bottom-style: solid;
     border-bottom-width: 2px;   
@@ -45,7 +44,7 @@ nav {
 .link {
     position: relative;
     float: right;
-    background: #ffffff;
+    /* background: #ffffff; */
     padding: 20px;
     text-decoration: none;
     }
