@@ -106,40 +106,46 @@ footer {
 
 
 .button1{
-    position: absolute;  
+    /* position: absolute;   */
+
     margin-bottom: 5%; 
     margin-right: 3em;
+    margin-left: 3em;
 }
 
 .button2{
-    position: relative;
+    /* position: relative; */
     left: 15em;
     margin-bottom: 5%;
     margin-right: 3em;
+    margin-left: 3em;
 }
 
 .button3{
-    position: absolute;
+    /* position: absolute; */
     margin-bottom: 5%;
     margin-right: 3em;
+    margin-left: 3em;
 }
 
 .button4{
-    position: relative;
+    /* position: relative; */
     top: 0%;
-    left: 15em;
+    /* left: 15em; */
     margin-bottom: 5%;
-    /* margin-right: 30px; */
+    margin-right: 3em;
+    margin-left: 3em;
 }
 
 .button5{
-    position: relative;
+    /* position: relative; */
     margin-bottom: 5%;
-    /* margin-right: 30px; */
+    margin-right: 3em;
+    margin-left: 3em;
 }
 
 .textblock1{
-    position: absolute;
+    /* position: absolute; */
     text-align: center;
     top: 70%;
     background-color: #777777;
@@ -149,7 +155,7 @@ footer {
 }
 
 .textblock2{
-    position: absolute;
+    /* position: absolute; */
     top: 70%;
     text-align: center;
     background-color: #777777;
@@ -159,7 +165,7 @@ footer {
 }
 
 .textblock3{
-    position: absolute;
+    /* position: absolute; */
     text-align: center;
     top: 70%;
     background-color: #777777;
@@ -169,7 +175,7 @@ footer {
 }
 
 .textblock4{
-    position: absolute;
+    /* position: absolute; */
     text-align: center;
     top: 70%;
     background-color: #777777;
@@ -179,7 +185,7 @@ footer {
 }
 
 .textblock5{
-    position: absolute;
+    /* position: absolute; */
     text-align: center;
     top: 70%;
     background-color: #777777;
