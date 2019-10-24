@@ -144,7 +144,7 @@ footer {
     margin-left: 3em;
 }
 
-.textblock1{
+.textblock{
     /* position: absolute; */
     text-align: center;
     top: 70%;
@@ -154,42 +154,6 @@ footer {
     opacity: 0.9; 
 }
 
-.textblock2{
-    /* position: absolute; */
-    top: 70%;
-    text-align: center;
-    background-color: #777777;
-    color:#ffffff;
-    width: 100%;
-    opacity: 0.9; 
-}
-
-.textblock3{
-    /* position: absolute; */
-    text-align: center;
-    top: 70%;
-    background-color: #777777;
-    color:#ffffff;
-    width: 100%;
-    opacity: 0.9; 
-}
-
-.textblock4{
-    /* position: absolute; */
-    text-align: center;
-    top: 70%;
-    background-color: #777777;
-    color:#ffffff;
-    width: 100%;
-    opacity: 0.9; 
-}
-
-.textblock5{
-    /* position: absolute; */
-    text-align: center;
-    top: 70%;
-    background-color: #777777;
-    color:#ffffff;
-    width: 100%;
-    opacity: 0.9; 
+.textblock:hover{
+    text-decoration: none;
 }
