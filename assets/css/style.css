@@ -14,7 +14,6 @@ body {
     background-color: #42536D;
     background-image: url("../images/site-tile.png");
     background-repeat: repeat;
-    font-size: 18px;
     text-align: center;
 }
 
@@ -106,15 +105,7 @@ footer {
 
 /* Portfolio */
 
-/* .textblock{
-    text-align: center;
-    top: 70%;
-    background-color: #2F3448;
-    color:#F7F5F5;
-    width: 100%;
-    opacity: 0.9; 
+.card-title{
+    font-size: 1.5rem;
+    font-weight: bold;
 }
-
-.textblock:hover{
-    text-decoration: none;
-} */
